@@ -112,3 +112,4 @@ def createSentence():
         print(" ".join(sentence) +".")
 
 
+createSentence()
